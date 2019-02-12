@@ -12,54 +12,48 @@
     
     <item>
       <title>Data Science In 5 Links</title>
-      <link>/post/links/</link>
+      <link>/post/five-links/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/links/</guid>
+      <guid>/post/five-links/</guid>
       <description>
 
 &lt;h2 id=&#34;bayesian-statistics&#34;&gt;Bayesian Statistics&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Statistical Rethinking 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Betancourt Case Studies 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Brms&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Stan manual&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;BDA 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;statistical_rethinking&#34; target=&#34;_blank&#34;&gt;Statistical Rethinking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;principled_bayes_workflow&#34; target=&#34;_blank&#34;&gt;Towards a Principled Bayesian Workflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;brms&#34; target=&#34;_blank&#34;&gt;brms R Package&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;stan_user_guide&#34; target=&#34;_blank&#34;&gt;Stan User&amp;rsquo;s Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;bda3&#34; target=&#34;_blank&#34;&gt;Bayesian Data Analysis Textbook&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;open-data&#34;&gt;Open Data&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Statistical Rethinking 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Betancourt Case Studies 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;BDA 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;open_corporates&#34; target=&#34;_blank&#34;&gt;Open Corporates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;open_data_handbook&#34; target=&#34;_blank&#34;&gt;Open Data Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;open_aq&#34; target=&#34;_blank&#34;&gt;openaq: Open Air Quality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;eu_open_data&#34; target=&#34;_blank&#34;&gt;EU Open Data Portal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;copernicus_landsat&#34; target=&#34;_blank&#34;&gt;Copernicus Open Remote Sensing Data&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;data-science-management&#34;&gt;Data Science Management&lt;/h2&gt;
+&lt;h2 id=&#34;data-science-team-management&#34;&gt;Data Science Team Management&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Statistical Rethinking 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Betancourt Case Studies 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;BDA 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mason_ds_product&#34; target=&#34;_blank&#34;&gt;How to Decide which Data Science Projects to Pursue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;ds_team_management_basics&#34; target=&#34;_blank&#34;&gt;Data Science Team Management Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;kalil_product_advocacy&#34; target=&#34;_blank&#34;&gt;Policy Entrepreneurship at the White House&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;feature-pipeline&#34;&gt;Feature pipeline&lt;/h2&gt;
+&lt;h2 id=&#34;productionizing-machine-learning-pipelines&#34;&gt;Productionizing Machine Learning: Pipelines&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Statistical Rethinking 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Betancourt Case Studies 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;BDA 🚀 &lt;a href=&#34;link&#34; target=&#34;_blank&#34;&gt;One sentence description with link&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;sklearn&#34; target=&#34;_blank&#34;&gt;scikit-learn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;pandas&#34; target=&#34;_blank&#34;&gt;pandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;sklearn-pandas&#34; target=&#34;_blank&#34;&gt;sklearn-pandas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;lightgbm&#34; target=&#34;_blank&#34;&gt;lightgbm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;shap&#34; target=&#34;_blank&#34;&gt;Shap: Model Explanations&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -154,20 +148,6 @@
       
       <guid>/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>
-
-&lt;p&gt;Data professional experienced in bridging the gap between existing infrastructure and the promise of data science by exploiting open data, expanding the potential of existing sources, modeling using the right algorithms and delivering insights using R and d3.js visualizations.&lt;/p&gt;
-
-&lt;h4 id=&#34;happy-to-collaborate-on-data-science-r-and-the-common-good-http-www-bowdoin-edu-academics-curriculum-liberal-education-statement&#34;&gt;Happy to collaborate on data science, R and the &lt;a href=&#34;http://www.bowdoin.edu/academics/curriculum/liberal-education-statement&#34; target=&#34;_blank&#34;&gt;common good&lt;/a&gt;.&lt;/h4&gt;
 </description>
     </item>
     

@@ -14,19 +14,11 @@
     
     <item>
       <title>Data Science In 5 Links</title>
-      <link>/post/links/</link>
+      <link>/post/five-links/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/links/</guid>
-      <description>Bayesian Statistics  Statistical Rethinking 🚀 One sentence description with link.
- Betancourt Case Studies 🚀 One sentence description with link.
- Brms
- Stan manual
- BDA 🚀 One sentence description with link.
-  Open Data  Statistical Rethinking 🚀 One sentence description with link.
- Betancourt Case Studies 🚀 One sentence description with link.
- BDA 🚀 One sentence description with link.
-  Data Science Management  Statistical Rethinking 🚀 One sentence description with link.</description>
+      <guid>/post/five-links/</guid>
+      <description> Bayesian Statistics  Statistical Rethinking Towards a Principled Bayesian Workflow brms R Package Stan User&amp;rsquo;s Guide Bayesian Data Analysis Textbook  Open Data  Open Corporates Open Data Handbook openaq: Open Air Quality EU Open Data Portal Copernicus Open Remote Sensing Data  Data Science Team Management  How to Decide which Data Science Projects to Pursue Data Science Team Management Basics Policy Entrepreneurship at the White House  Productionizing Machine Learning: Pipelines  scikit-learn pandas sklearn-pandas lightgbm Shap: Model Explanations  </description>
     </item>
     
     <item>
