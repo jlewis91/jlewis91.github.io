@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jpsl on bayesian boondoggles</title>
+    <link>/authors/jpsl/</link>
+    <description>Recent content in jpsl on bayesian boondoggles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Jeremiah Lewis</copyright>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/jpsl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science In 5 Links</title>
+      <link>/post/links/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/links/</guid>
+      <description>Bayesian Statistics  Statistical Rethinking 🚀 One sentence description with link.
+ Betancourt Case Studies 🚀 One sentence description with link.
+ Brms
+ Stan manual
+ BDA 🚀 One sentence description with link.
+  Open Data  Statistical Rethinking 🚀 One sentence description with link.
+ Betancourt Case Studies 🚀 One sentence description with link.
+ BDA 🚀 One sentence description with link.
+  Data Science Management  Statistical Rethinking 🚀 One sentence description with link.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/author/jpsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/jpsl/</guid>
+      <description>I am the Data Science Team Lead at N26. Over five years in data I’ve optimized digital marketing, applied machine learning to the contemporary art world, built an award winning project in an open data hackathon, and taken on a series of positions at a rather ambitious Berliner fintech.
+At the present, I am working on:
+ building and mentoring data science teams scaling and managing product-driven ML and data science services developing best practices for data science in a product-driven organization  If we have common interests, please get in touch: hello@jeremiahlewis.</description>
+    </item>
+    
+  </channel>
+</rss>
