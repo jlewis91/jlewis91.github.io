@@ -57,6 +57,20 @@
 &lt;li&gt;&lt;a href=&#34;https://lightgbm.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34;&gt;lightgbm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/slundberg/shap&#34; target=&#34;_blank&#34;&gt;Shap: Model Explanations&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&#34;productionizing-machine-learning-data-engineering&#34;&gt;Productionizing Machine Learning: Data Engineering&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.prefect.io&#34; target=&#34;_blank&#34;&gt;Prefect.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.getdbt.com&#34; target=&#34;_blank&#34;&gt;dbt_&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://flywaydb.org&#34; target=&#34;_blank&#34;&gt;Flyway&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://marpit.marp.app&#34; target=&#34;_blank&#34;&gt;MARP&lt;/a&gt;, barebones but useful markdown -&amp;gt; html/pdf presentation software&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
