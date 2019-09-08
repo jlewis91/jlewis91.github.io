@@ -4,11 +4,11 @@
     <title>Categories on bayesian boondoggles</title>
     <link>/categories/</link>
     <description>Recent content in Categories on bayesian boondoggles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Jeremiah Lewis</copyright>
     
-	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
