@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bayesian boondoggles</title>
+    <title></title>
     <link>/</link>
-    <description>Recent content on bayesian boondoggles</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Jeremiah Lewis</copyright>
-    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Data Science In 5 Links</title>
-      <link>/post/five-links/</link>
-      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/five-links/</guid>
-      <description>Highlights from the data science community</description>
-    </item>
     
   </channel>
 </rss>
