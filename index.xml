@@ -3,22 +3,29 @@
   <channel>
     <title>bayesian boondoggles</title>
     <link>/</link>
-    <description>Recent content on bayesian boondoggles</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Jeremiah Lewis</copyright>
-    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>bayesian boondoggles</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Jeremiah Lewis</copyright><lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>bayesian boondoggles</title>
+      <link>/</link>
+    </image>
     
     <item>
-      <title>Data Science In 5 Links</title>
-      <link>/post/five-links/</link>
+      <title>Posts</title>
+      <link>/post/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/five-links/</guid>
-      <description>Highlights from the data science community</description>
+      <guid>/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
     </item>
     
   </channel>
